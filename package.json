@@ -1,0 +1,19 @@
+{
+  "name": "pentera-project",
+  "version": "1.0.0",
+  "main": "master.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "jsonfile": "^6.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
